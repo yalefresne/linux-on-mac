@@ -1,5 +1,6 @@
-# linux-on-mac
-Somes tips and trick to install and config a linux distrib on mac
+# Linux distribution on Macbook
+Somes tips and trick to install and config a linux distrib on macbook air.
+In example i use `dnf` cause i run command on fedora.
 
 # Install wifi driver
 ```bash
